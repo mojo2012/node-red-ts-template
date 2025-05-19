@@ -31,7 +31,7 @@
 		"node-red"
 	],
 	"dependencies": {
-		"node-red-ts": "^1.0.5"
+		"node-red-ts": "^1.0.9"
 	},
 	"devDependencies": {
 		"@types/jest": "^26.0.24",
